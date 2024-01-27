@@ -1,2 +1,2 @@
 # statistical-programming
-Calculates process times for partitions on a GPU/CPU cluster
+Python-code for processing-times-calculations for partitions on a GPU/CPU cluster
