@@ -17,7 +17,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
     * conditional probabilities, (i.e gpu beeing the central aim of the information)
     * Principal Component Analysis (PCA)
     * Connectivity Map (CMAP)
-    * And/or oder Models
+    * And/or oder Models.
  
 # Examples on Linux:
 
