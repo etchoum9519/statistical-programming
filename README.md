@@ -24,27 +24,27 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ## An help can be called with parameter `--help` or '-h'
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
+  <img width="400" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
 </p>
 
 ## Basic execution `cluster.py` (in CPUh)
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/370c2a79-7772-4ff6-bf5b-43f70a6771cd">
+  <img width="400" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/370c2a79-7772-4ff6-bf5b-43f70a6771cd">
 </p>
 
 
 ## `cluster.py --mem` or `cluster.py -m` (in GPUh)
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/ed97d25b-9f12-43d9-ba52-6631d732cfaf">
+  <img width="400" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/ed97d25b-9f12-43d9-ba52-6631d732cfaf">
 </p>
 
 
 ## `-p` or `--partition` to select partition(s) to be displayed and `-it` or `--init` to set a basis and the number of intervals to be taken into account:
 
 <p align="center">
-<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/76290142-e1e5-4157-a0cd-6d2c2f5dfda1"  width="500" height="600" /><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/cb341b40-e951-4533-8916-045e395413dd" width="500" height="600" />
+<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/76290142-e1e5-4157-a0cd-6d2c2f5dfda1"  width="200" height="300" /> <img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/cb341b40-e951-4533-8916-045e395413dd" width="200" height="300" />
 </p>
 
 
