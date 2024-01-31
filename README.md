@@ -3,7 +3,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 <br>
 
 # Aims
-  * parse `sacct` data to display the average waiting time over the last 7 days
+  * parse `sacct` data to display the average processing time over the last 7 days
   * data classification into bins based on partition
   * bin data by requested timelimits
     * e.g. < 5min, 5-30m, 30m-2h, 2h-12h, 12-48, 48+
