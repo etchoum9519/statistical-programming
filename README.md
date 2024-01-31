@@ -24,7 +24,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ## An help can be called with parameter `--help` or '-h'
 
 <p align="center">
-  <img width="700" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
+  <img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
 </p>
 
 ## Basic execution `cluster.py` (in CPUh)
