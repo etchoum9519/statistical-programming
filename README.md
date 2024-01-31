@@ -1,6 +1,6 @@
 # statistical-programming
 Python-code to calculate processing-times for partitions on a GPU/CPU cluster
-<br>
+<br><br>
 
 # Aims
   * parse `sacct` data to display the average processing time over the last 7 days
@@ -20,9 +20,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
     * And/or oder Models.
 <br>
 
-# Examples on Linux:
-
-<br>
+# Examples on Linux
 
 ### An help can be called with parameter `--help` or '-h'
 
@@ -50,9 +48,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 </p>
 <br>
 
-# Visualization on Jupiter Lab:
-<br>
-
+# Visualization on Jupiter Lab
 ### A - Subprocessing the programm and giving the output an adequate form
 
 <p >
