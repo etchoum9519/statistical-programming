@@ -84,19 +84,19 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 
 ## F - PCA (Two componants)
 <p align="center">
-<img width="200" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/d1453f84-29f8-4174-b9a5-028dfc61350b"  /> <img  width="200" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a1c7128b-eb3a-4180-b0a3-e8ea808a0fc2"  />
+<img width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/d1453f84-29f8-4174-b9a5-028dfc61350b"  /> <img  width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a1c7128b-eb3a-4180-b0a3-e8ea808a0fc2"  />
 </p>
 
 
 ## G - PCA (Three componants)
 <p align="center">
-<img width="200" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1995fafc-0279-4fc5-bb9c-8158f3da7542"  /> <img width="200" height="300"  src="https://github.com/etchoum9519/statistical-programming/assets/157910011/53b2f463-4805-4bb0-ace1-ad5a4ce9547d"  />
+<img width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1995fafc-0279-4fc5-bb9c-8158f3da7542"  /> <img width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/53b2f463-4805-4bb0-ace1-ad5a4ce9547d"  />
 </p>
 
 ## H - Connectivity map (CMAP) to visualize large-scale perturbation databases (i.e the Loss-function)
 
 <p align="center">
-<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1205c8d5-4b58-4f0e-9a60-519d4d13f744"  />
+<img width="500" height="500" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1205c8d5-4b58-4f0e-9a60-519d4d13f744"  />
 </p>
 
 # Links
