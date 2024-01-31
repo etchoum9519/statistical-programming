@@ -52,7 +52,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ## A - Subprocessing the programm and giving the output an adequate form
 
 <p >
-<img width="500" height="300"  src="https://github.com/etchoum9519/statistical-programming/assets/157910011/bb36c7b6-3a78-40f0-b007-a1fada923fa3"  /> 
+<img width="700" height="270"  src="https://github.com/etchoum9519/statistical-programming/assets/157910011/bb36c7b6-3a78-40f0-b007-a1fada923fa3"  /> 
 </p>
 
 ## B - Visualizing frequences and correlations between partitions
