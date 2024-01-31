@@ -44,7 +44,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ## `-p` or `--partition` to select partition(s) to be displayed and `-it` or `--init` to set a basis and the number of intervals to be taken into account:
 
 <p align="center">
-<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/76290142-e1e5-4157-a0cd-6d2c2f5dfda1" /> <img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/cb341b40-e951-4533-8916-045e395413dd" />
+<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/76290142-e1e5-4157-a0cd-6d2c2f5dfda1"   width="400" height="600" /> <img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/cb341b40-e951-4533-8916-045e395413dd"  width="400" height="600" />
 </p>
 
 
