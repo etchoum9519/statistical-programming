@@ -24,20 +24,20 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ## An help can be called with parameter `--help` or '-h'
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
+  <img width="700" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
 </p>
 
 ## Basic execution `cluster.py` (in CPUh)
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/370c2a79-7772-4ff6-bf5b-43f70a6771cd">
+  <img width="700" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/370c2a79-7772-4ff6-bf5b-43f70a6771cd">
 </p>
 
 
 ## `cluster.py --mem` or `cluster.py -m` (in GPUh)
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/ed97d25b-9f12-43d9-ba52-6631d732cfaf">
+  <img width="700" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/ed97d25b-9f12-43d9-ba52-6631d732cfaf">
 </p>
 
 
