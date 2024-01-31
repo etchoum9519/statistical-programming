@@ -11,11 +11,11 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
     * cores * timelimit = core-time as a metric to bin data by
     * Output should be divided in more than three categories.
 * Visualize this data on a web page, e.g. using flask
-* Perform prediction Analysis to supply classification of processing times for ex. using:
-    * Analysis of Discrete Probabilities, (based on the Number of jobs on the SSC queue)
-    * Continuous Probabilities, (based on processing-time (Number of seconds needed to complete jobs)
-    * Conditional Probabilities, (gpu beeing the central aim of the information)
-    * PCA (Principal Component Analysis)
+* Perform prediction Analysis to supply a usefull classification for ex. using:
+    * Analysis of discrete probabilities, (i.e based on the Number of jobs on the SSC queue)
+    * continuous probabilities, (i.e based on processing-time (Number of seconds needed to complete jobs)
+    * conditional probabilities, (i.e gpu beeing the central aim of the information)
+    * Principal Component Analysis (PCA)
     * Connectivity Map (CMAP)
     * And/or oder Models
  
