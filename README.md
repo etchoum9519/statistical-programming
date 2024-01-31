@@ -1,44 +1,58 @@
 # statistical-programming
-Python-code for processing-times-calculations for partitions on a GPU/CPU cluster
+Python-code to calculate processing-times for partitions on a GPU/CPU cluster
+<br>
 
 # Aims
-* parse `sacct` data to display the average waiting time over the last 7 days
-  * classification data into bins based on partitions
+  * parse `sacct` data to display the average waiting time over the last 7 days
+  * data classification into bins based on partition
   * bin data by requested timelimits
     * e.g. < 5min, 5-30m, 30m-2h, 2h-12h, 12-48, 48+
   * take number of requested cores into account
-    * cores * timelimit = core-time as a metric to bin the data by
+    * cores * timelimit = core-time as a metric to bin data by
+    * Output should be divided in more than three categories.
 * Visualize this data on a web page, e.g. using flask
-* Perform prediction Analysis to supply waiting times classification into classes for ex. using:
-    * Tobit-Model
-    * Linear Discriminant Analysis (LDA)
-    * Quadratic Linear Analysis (QDA)
+* Perform prediction Analysis to supply classification of processing times for ex. using:
+    * Analysis of Discrete Probabilities, (based on the Number of jobs on the SSC queue)
+    * Continuous Probabilities, (based on processing-time (Number of seconds needed to complete jobs)
+    * Conditional Probabilities, (gpu beeing the central aim of the information)
+    * PCA (Principal Component Analysis)
+    * Connectivity Map (CMAP)
     * And/or oder Models
  
-# Examples:
+# Examples on Linux:
 
-Example for `argp.py -p medium,fat`:
-|partition| < 20CPUh |  20-600CPUh | >600CPUh| 
-|---| ------ | ------ | ------ |
-|medium| 10s | 5min |20min |
-|fat| 1s | 20min | 2d |
+## An help can be called with parameter `--help` or '-h'
 
-Example for `argp.py -p medium,fat --mem`:
-|partition| < 100GBh |  100GBh - 1Tbh | >1TBh| 
-|---| ------ | ------ | ------ |
-|medium| 10min | 2days |200days |
-|fat| 1s | 20min | 2d |
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a6c5e193-e0d4-4099-860e-f575e7e78345">
+</p>
 
-Example for `argp.py --mem`:
-|partition| < 100GBh |  100GBh - 1Tbh | >1TBh| 
-|---| ------ | ------ | ------ |
-|medium| 10min | 2days |200days |
-|fat| 1s | 20min | 2d |
-|fat+| 10min | 2days |200days |
-|gpu| 1s | 20min | 2d |
-|int| 1s | 20min | 2d |
+## Basic execution `cluster.py` (in CPUh)
 
-Output should be divided in mor than three categories.
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/370c2a79-7772-4ff6-bf5b-43f70a6771cd">
+</p>
+
+
+## `cluster.py --mem` or `cluster.py -m` (in GPUh)
+
+<p align="center">
+  <img width="800" height="300" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/ed97d25b-9f12-43d9-ba52-6631d732cfaf">
+</p>
+
+
+## `-p` or `--partition` to select partition(s) to be displayed and `-it` or `--init` to set a basis and the number of intervals to be taken into account:
+
+<p align="center">
+<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/76290142-e1e5-4157-a0cd-6d2c2f5dfda1"  width="500" height="600" /><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/cb341b40-e951-4533-8916-045e395413dd" width="500" height="600" />
+</p>
+
+
+# Visualization on Jupiter Lab:
+
+# A - 
+
+
 
 # Links
 
