@@ -79,7 +79,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 <img width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1995fafc-0279-4fc5-bb9c-8158f3da7542"  /> <img width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/53b2f463-4805-4bb0-ace1-ad5a4ce9547d"  />
 </p>
 
-### E - Connectivity map (CMAP) to visualize large-scale perturbation databases (i.e the Loss-function)
+### E - Connectivity map (CMAP) to visualize large-scale perturbation databases (i.e Loss-function)
 
 <p >
 <img width="450" height="350" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1205c8d5-4b58-4f0e-9a60-519d4d13f744"  />
