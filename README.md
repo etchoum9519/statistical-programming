@@ -48,7 +48,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 </p>
 <br>
 
-# Visualization on Jupiter Lab
+# Visualization on Jupiter Lab (Basis = 2, Number of intervals = 12)
 ### A - Subprocessing the programm and giving the output an adequate form
 
 <p >
