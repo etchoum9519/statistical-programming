@@ -90,7 +90,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 # Links
 <br>
 
-* GWDG: [https://gwdg.de/about-us/gwdg-news/2021/GN_10-11-2021_www.pdf]
+* GWDG: <A HREF="https://gwdg.de/about-us/gwdg-news/2021/GN_10-11-2021_www.pdf#page=21"> 
 * GPU-Computing with Python: [https://hps.vi4io.org/teaching/summer_term_2023/scap]
 * The Guide i used: [pep8 style guide](https://www.python.org/dev/peps/pep-0008/)
 * Lecture for Business applications: [PyEcon](https://pyecon.org/lecture/)
