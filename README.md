@@ -58,7 +58,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ### B - (L) Visualizing frequences and correlations between partitions, (R) Time-Frequency plots per partitions (last steps describe the means)
 
 <p >
-<img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/0fa9262a-d70e-4c35-9c4d-7922f0d78c26"  /><img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a0019f89-b442-4e18-a71c-e98d81ec4231"  />
+<img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/0fa9262a-d70e-4c35-9c4d-7922f0d78c26"  />        <img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a0019f89-b442-4e18-a71c-e98d81ec4231"  />
 </p>
 
 
