@@ -70,7 +70,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 <img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/314260e5-1603-4c59-84c7-4959355154aa" /><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/b2759f9f-65c2-4e6a-8309-cdc4045488e0"  /><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1b5d82c2-3d7e-4917-86cf-058f39806d33"  /><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/c74781be-274e-4536-ad9b-dd1aa4ca317d"  />
 </p>
 
-### D - PCA (two and three componants)
+### D - PCA (two or three componants)
 <p >
 <img width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/d1453f84-29f8-4174-b9a5-028dfc61350b"  /> <img  width="400" height="200" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a1c7128b-eb3a-4180-b0a3-e8ea808a0fc2"  />
 </p>
