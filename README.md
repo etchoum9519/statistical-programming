@@ -65,7 +65,7 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 
 
 
-### C - Simulating distributions and connectivity map (CMAP) to visualize large-scale perturbation databases (i.e Loss-function)
+### C - Simulating Time-Series and connectivity map (CMAP) to visualize large-scale perturbation databases (i.e Loss-function)
 
 <p >
 <img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/be62ea34-025b-4044-8add-fb8ac9d950bd"  />        <img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1205c8d5-4b58-4f0e-9a60-519d4d13f744"  />
@@ -76,7 +76,6 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 # Links
 <br>
 
-% * GWDG: ["https://gwdg.de/about-us/gwdg-news/2021/GN_10-11-2021_www.pdf#page=21"]
 * GPU-Computing with Python: [https://hps.vi4io.org/teaching/summer_term_2023/scap]
 * pep8 style guide: [pep8 style guide](https://www.python.org/dev/peps/pep-0008/)
 * Lecture for Business applications: [PyEcon](https://pyecon.org/lecture/)
