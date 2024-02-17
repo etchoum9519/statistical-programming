@@ -58,8 +58,9 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ### B - (L) Visualizing frequences and correlations between partitions, (R) Time-Frequency plots per partitions (last steps describe the means)
 
 <p >
-<img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/0fa9262a-d70e-4c35-9c4d-7922f0d78c26"  />        <img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/a0019f89-b442-4e18-a71c-e98d81ec4231"  />
+<img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/0fa9262a-d70e-4c35-9c4d-7922f0d78c26"  />        <img width="350" height="250" src="https://github.com/etchoum9519/statistical-programming/assets/157910011/ea10a355-1071-41b2-ae25-a2671b8016b6"  />
 </p>
+
 
 
 
@@ -67,11 +68,9 @@ Python-code to calculate processing-times for partitions on a GPU/CPU cluster
 ### C - Conditional-Variance-Analysis
 
 <p >
-<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/314260e5-1603-4c59-84c7-4959355154aa"/><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/b2759f9f-65c2-4e6a-8309-cdc4045488e0"/>
+<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/be62ea34-025b-4044-8add-fb8ac9d950bd"/>
  </p>
- <p >
-<img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/1b5d82c2-3d7e-4917-86cf-058f39806d33"/><img src="https://github.com/etchoum9519/statistical-programming/assets/157910011/c74781be-274e-4536-ad9b-dd1aa4ca317d"/>
-</p>
+
 
 
 ### D - Connectivity map (CMAP) to visualize large-scale perturbation databases (i.e Loss-function)
